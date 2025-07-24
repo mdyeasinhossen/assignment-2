@@ -1,0 +1,45 @@
+/* nav section: */
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+
+}
+.link-container{
+    display: flex;
+
+}
+
+.link-container a{
+    text-decoration: none;
+    
+}
+
+
+/* main section: */
+/* info section */
+
+.info{
+    display: flex;
+    justify-content: center;
+}
+
+/* plan section : */
+
+
+
+.plant-lover{
+    display: flex;
+
+}
+
+
+/* latest section */
+
+.zabo-plant{
+    background-image: url("../projec/assets/deal-zabo");
+}
+
+
+
+
